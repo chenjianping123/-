@@ -1,5 +1,3 @@
-from datetime import datetime
-from random import *
 def generateSamples2(n:int):
     birthdays = []
     days = [31,28,31,30,31,30,31,31,30,31,30,31]
